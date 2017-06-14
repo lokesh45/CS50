@@ -1,0 +1,12 @@
+1.  set of typedefs that specify exact-width integer types using macros
+2.  we can use them to fill exact amount of space
+3.  BYTE - 8 bits(1 byte)  DWORD - 4 bytes LONG - 4 bytes  WORD - 2 bytes
+4.  ASCII:  BM
+5.  bfSize is the total number of bytes in the file.biSize is the number of bytes in the info header
+6.  the bitmap is a top-down DIB with the origin at the upper left corner.
+7.  biBitCount
+8.  If it cannot find file.
+9.  we are reading only one struct at a time
+10. 3
+11. it moves to specified position in a file.
+12. it is an OFFSET value for current position in a file. 
